@@ -1,0 +1,9 @@
+# converting .py to .exe file using pyinstaller.
+pyinstaller --name YoutubeRigger --onefile --windowed --icon=ICON.ico Youtube_Rigger.py
+
+
+# using ffmpeg to merge video and audio file together and create output.mp4 file as the final product.
+ffmpeg -i video.mp4 -i audio.mp4 -c:v copy -c:a aac -map 0:v -map 1:a output.mp4
+
+#using ffmpeg to cut a video [-ss start -t duration]
+ffmpeg -i input.mp4 -ss 00:05:20 -t 00:10:00 -c:v copy -c:a copy output.mp4
