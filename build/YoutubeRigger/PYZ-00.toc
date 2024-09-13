@@ -1,5 +1,5 @@
-('C:\\Users\\Srajan '
- 'Saldanha\\Desktop\\Project1-YoutubeRigger\\build\\YoutubeRigger\\PYZ-00.pyz',
+("M:\\Srajan's Files\\Coding\\Python\\Python "
+ 'Projects\\Project1-YoutubeRigger\\build\\YoutubeRigger\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Srajan '
    'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
@@ -1907,6 +1907,34 @@
   ('platform',
    'C:\\Users\\Srajan '
    'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('platformdirs',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'C:\\Users\\Srajan '
+   'Saldanha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\platformdirs\\windows.py',
    'PYMODULE'),
   ('plistlib',
    'C:\\Users\\Srajan '

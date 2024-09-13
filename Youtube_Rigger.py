@@ -60,7 +60,7 @@ def runApp():
         try:
             url = urlEntry.get()
             yt = YouTube(url, on_progress_callback=progress_track)
-
+            
             urllib.request.urlretrieve( 
             yt.thumbnail_url, os.path.join("assets", "thumbnail.png"))
             viewImage = ctk.CTkImage(
@@ -168,7 +168,6 @@ def runApp():
 
         # if Video Fails to Download
         except Exception as e:
-
             viewlabel.pack_forget()
             # Error Status label
             statusLabel.configure(
